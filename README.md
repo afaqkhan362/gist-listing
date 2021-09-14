@@ -1,4 +1,4 @@
-# Zameen Assessment
+# Gist Listing
 
 Inside the zameen-assessment you will find the relevant code for updated implemenatation of gist listing for git
 Made and uploaded by afaqkhan362@gmail.com 
